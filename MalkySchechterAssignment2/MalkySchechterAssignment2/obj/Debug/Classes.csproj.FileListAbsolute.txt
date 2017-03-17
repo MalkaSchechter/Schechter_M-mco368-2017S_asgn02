@@ -1,0 +1,5 @@
+C:\Users\Malky\Documents\Visual Studio 2015\Projects\MalkySchechterAssignment2\MalkySchechterAssignment2\bin\Debug\MalkySchechterAssignment2.dll
+C:\Users\Malky\Documents\Visual Studio 2015\Projects\MalkySchechterAssignment2\MalkySchechterAssignment2\bin\Debug\MalkySchechterAssignment2.pdb
+C:\Users\Malky\Documents\Visual Studio 2015\Projects\MalkySchechterAssignment2\MalkySchechterAssignment2\obj\Debug\Classes.csprojResolveAssemblyReference.cache
+C:\Users\Malky\Documents\Visual Studio 2015\Projects\MalkySchechterAssignment2\MalkySchechterAssignment2\obj\Debug\MalkySchechterAssignment2.dll
+C:\Users\Malky\Documents\Visual Studio 2015\Projects\MalkySchechterAssignment2\MalkySchechterAssignment2\obj\Debug\MalkySchechterAssignment2.pdb

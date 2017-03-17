@@ -1,0 +1,8 @@
+C:\Users\Malky\Documents\Visual Studio 2015\Projects\MalkySchechterAssignment2\Console\bin\Debug\Console.exe.config
+C:\Users\Malky\Documents\Visual Studio 2015\Projects\MalkySchechterAssignment2\Console\obj\Debug\Console.csprojResolveAssemblyReference.cache
+C:\Users\Malky\Documents\Visual Studio 2015\Projects\MalkySchechterAssignment2\Console\bin\Debug\Console.exe
+C:\Users\Malky\Documents\Visual Studio 2015\Projects\MalkySchechterAssignment2\Console\bin\Debug\Console.pdb
+C:\Users\Malky\Documents\Visual Studio 2015\Projects\MalkySchechterAssignment2\Console\bin\Debug\MalkySchechterAssignment2.dll
+C:\Users\Malky\Documents\Visual Studio 2015\Projects\MalkySchechterAssignment2\Console\bin\Debug\MalkySchechterAssignment2.pdb
+C:\Users\Malky\Documents\Visual Studio 2015\Projects\MalkySchechterAssignment2\Console\obj\Debug\Console.exe
+C:\Users\Malky\Documents\Visual Studio 2015\Projects\MalkySchechterAssignment2\Console\obj\Debug\Console.pdb
